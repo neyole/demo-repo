@@ -8,4 +8,4 @@ watch video on youtube
 
 ## Local Development
 
-open index.html in a browser
+open index.html in your browser
